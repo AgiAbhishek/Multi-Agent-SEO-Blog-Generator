@@ -1,0 +1,9 @@
+langchain
+openai
+beautifulsoup4
+requests
+markdown
+python-dotenv
+requests
+fpdf==1.7.2
+rake-nltk==1.0.6
